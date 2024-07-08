@@ -1,0 +1,3 @@
+            CMD        PROMPT('SAVE LIB AS SAVF in lib xfer')
+             PARM       KWD(LIBRARY) TYPE(*CHAR) LEN(10) PROMPT('Select +
+                          Library')  
